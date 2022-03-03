@@ -1,0 +1,19 @@
+﻿body {
+    background-color: #064926;
+    left: 700pt;
+    padding-left: 60px;
+}
+h1 {
+    color: #ff0000;
+    left: 700px;
+    padding-left: 60px;
+}
+h2 {
+    position: absolute; /* Абсолютное позиционирование */
+    left: 300px; /* Положение от левого края */
+    top: 50px; /* Положение от верхнего края */
+    width: 120px; /* Ширина блока */
+    background: #e0e0e0; /* Цвет фона */
+    border: 1px solid #000; /* Параметры рамки */
+    padding: 5px; /* Поля вокруг текста */
+}
